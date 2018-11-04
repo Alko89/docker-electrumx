@@ -1,12 +1,11 @@
 
 # docker-electrumx
 
-Fork of [lukechilds/docker-electrumx
-](https://github.com/lukechilds/docker-electrumx) with ElectrumX 1.8.9
+Fork of [lukechilds/docker-electrumx](https://github.com/lukechilds/docker-electrumx) with ElectrumX 1.8.9
 
-[![Build Status](https://travis-ci.org/lukechilds/docker-electrumx.svg?branch=master)](https://travis-ci.org/alko89/docker-electrumx)
-[![Image Layers](https://images.microbadger.com/badges/image/lukechilds/electrumx.svg)](https://microbadger.com/images/alko89/electrumx)
-[![Docker Pulls](https://img.shields.io/docker/pulls/lukechilds/electrumx.svg)](https://hub.docker.com/r/alko89/electrumx/)
+[![Build Status](https://travis-ci.org/Alko89/docker-electrumx.svg?branch=master)](https://travis-ci.org/Alko89/docker-electrumx)
+[![Image Layers](https://images.microbadger.com/badges/image/alko89/electrumx.svg)](https://microbadger.com/images/alko89/electrumx)
+[![Docker Pulls](https://img.shields.io/docker/pulls/alko89/electrumx.svg)](https://hub.docker.com/r/alko89/electrumx/)
 
 > Run an Electrum server with one command
 
